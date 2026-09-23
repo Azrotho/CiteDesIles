@@ -1,0 +1,12 @@
+[submodule "cite"]
+	path = cite
+	url = https://github.com/Azrotho/cdi-plugin-cite.git
+[submodule "land"]
+	path = land
+	url = https://github.com/Azrotho/CDI-Plugin-Land.git
+[submodule "proxy"]
+	path = proxy
+	url = https://github.com/Azrotho/cdi-plugin-proxy.git
+[submodule "inscriptionbot"]
+	path = inscriptionbot
+	url = https://github.com/Azrotho/cdi-inscription-pluginbot.git
