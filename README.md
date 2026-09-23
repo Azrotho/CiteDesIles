@@ -9,7 +9,7 @@ Repo principal du projet Cité des Îles. Il regroupe juste les différents plug
 
 Ce repo utilise des submodules, il n'y a pas de code ici directement.
 
-Merci beaucoup à @Raraph84 pour l'aide :3
+Merci beaucoup à [@Raraph84](https://github.com/Raraph84) pour l'aide :3
 
 ## Les projets
 
@@ -67,3 +67,7 @@ cd ..
 git add cite
 git commit -m "maj cite"
 ```
+
+## La vidéo
+
+Le projet vient de cette vidéo : [J'ai organisé une Cité Minecraft et ça s'est pas passé comme prévu](https://www.youtube.com/watch?v=9cgjIH6-Vqo).
