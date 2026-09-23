@@ -11,6 +11,14 @@ Ce repo utilise des submodules, il n'y a pas de code ici directement.
 
 Merci beaucoup à [@Raraph84](https://github.com/Raraph84) pour l'aide :3
 
+## Crédits
+
+- Chef de Projet: Azrotho
+- Développement: Azrotho, Raraph84
+- Build: Deadou
+- GameDesign: Robix_76
+- Partenaire: Aimcvent, Polycube
+
 ## Les projets
 
 - `cite/` : [cdi-plugin-cite](https://github.com/Azrotho/cdi-plugin-cite)
