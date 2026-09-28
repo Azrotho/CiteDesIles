@@ -4,12 +4,16 @@
 ![Discord JDA](https://img.shields.io/badge/Discord-JDA-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![Velocity](https://img.shields.io/badge/Velocity-%23FF0000.svg?style=for-the-badge&logo=velocity&logoColor=white)
+![PaperMC](https://img.shields.io/badge/PaperMC-%23F9A825.svg?style=for-the-badge&logo=PaperMC&logoColor=white)
 
 Repo principal du projet Cité des Îles. Il regroupe juste les différents plugins, chacun est dans son propre dépôt.
 
 Ce repo utilise des submodules, il n'y a pas de code ici directement.
 
 Merci beaucoup à [@Raraph84](https://github.com/Raraph84) pour l'aide :3
+
+**Le Monorepo de la Cité des Îles 2 est disponible [ici](https://github.com/azrotho/citedesiles2).**
 
 ## Crédits
 
