@@ -7,13 +7,14 @@
 ![Velocity](https://img.shields.io/badge/Velocity-%23FF0000.svg?style=for-the-badge&logo=velocity&logoColor=white)
 ![PaperMC](https://img.shields.io/badge/PaperMC-%23F9A825.svg?style=for-the-badge&logo=PaperMC&logoColor=white)
 
+### Le Monorepo de la Cité des Îles 2 est disponible [ici](https://github.com/azrotho/citedesiles2).
+
 Repo principal du projet Cité des Îles. Il regroupe juste les différents plugins, chacun est dans son propre dépôt.
 
 Ce repo utilise des submodules, il n'y a pas de code ici directement.
 
 Merci beaucoup à [@Raraph84](https://github.com/Raraph84) pour l'aide :3
 
-**Le Monorepo de la Cité des Îles 2 est disponible [ici](https://github.com/azrotho/citedesiles2).**
 
 ## Crédits
 
